@@ -1,5 +1,6 @@
 Rencana Konten indra
 
-- Javascript
-- PHP Frameworks
-- vlog
+- Welcome
+- Gaming
+- Vloging
+- Tutorials
